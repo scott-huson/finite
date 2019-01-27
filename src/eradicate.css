@@ -236,7 +236,12 @@ div.ego_column,
 #stories_pagelet_rhc,
 #fb_stories_card_root,
 #pagelet_games_rhc,
-#pagelet_canvas_nav_content {
+#pagelet_canvas_nav_content,
+#rightCol,
+#pagelet_sidebar, 
+#leftCol,
+#pagelet_composer, 
+#pagelet_megaphone {
 	opacity: 0 !important;
 	pointer-events: none !important;
 }

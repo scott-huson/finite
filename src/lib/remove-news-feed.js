@@ -8,7 +8,12 @@ const elementsToRemove =
 	'#stories_pagelet_rhc,' +
 	'#fb_stories_card_root,' +
 	'#pagelet_trending_tags_and_topics,' +
-	'#pagelet_canvas_nav_content';
+	'#pagelet_canvas_nav_content' +
+	'#rightCol' + 
+	'#pagelet_sidebar' +
+	'#leftCol' + 
+	'#pagelet_composer' + 
+	'#pagelet_megaphone';
 
 const elementsToEmpty =
 	'[id^=topnews_main_stream],' +
